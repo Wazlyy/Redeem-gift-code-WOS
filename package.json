@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristianCook/woredeem.git"
+    "url": "git+https://github.com/Wazlyy/Redeem-gift-code-WOS"
   },
   "author": "Wazlyy",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ChristianCook/woredeem/issues"
+    "url": "https://github.com/Wazlyy/Redeem-gift-code-WOS"
   },
-  "homepage": "https://github.com/ChristianCook/woredeem#readme",
+  "homepage": "https://github.com/Wazlyy/Redeem-gift-code-WOS",
   "type": "module",
   "dependencies": {
     "axios": "^1.6.3",
