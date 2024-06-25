@@ -1,0 +1,29 @@
+{
+  "name": "redeem",
+  "version": "1.0.1",
+  "description": "Redeem gift codes for Whiteout Survival",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianCook/woredeem.git"
+  },
+  "author": "Wazlyy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChristianCook/woredeem/issues"
+  },
+  "homepage": "https://github.com/ChristianCook/woredeem#readme",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "axios-retry": "^4.0.0",
+    "chalk": "2.4",
+    "crypto-js": "^4.2.0",
+    "ini": "^4.1.1",
+    "yargs": "13.2"
+  }
+}
